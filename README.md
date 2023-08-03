@@ -13,10 +13,21 @@ Enjoy using!
 
 **The user is prompted to enter a link (great article by the way)**
 
+
+
 <img width="94" alt="image" src="https://github.com/JasonD2626/ObscureDictionary/assets/107736333/8b9092dd-9ec5-4ad5-b97d-df4f16e3c7c8">
+
+
+
+
+
 **The program prints 'eurypterid' as a possible word of interest**
 
+
+
 <img width="508" alt="image" src="https://github.com/JasonD2626/ObscureDictionary/assets/107736333/257a4340-3c24-465b-8c49-8807a8850efc">
-**The user is then prompted to enter the number of the word whose definition they desire, and the program returns said definition
-**
+
+
+
+**The user is then prompted to enter the number of the word whose definition they desire, and the program returns said definition**
 
