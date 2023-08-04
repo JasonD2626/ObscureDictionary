@@ -1,6 +1,6 @@
 A simple, algorithim based Python program that lets you look up the definitions of possibly unknown words. 
 
-This took me about ~1 hour total to make, the idea concieved after reading articles and finding how tedious looking up each word was and having to make sure it was the right usage.
+This took me about ~1 hour total to brainstorm, the idea concieved after reading articles and finding how tedious looking up each word was and having to make sure it was the right usage.
 
 Python's PyDict not only provides you with all the definitions of a word but does it entirely in a terminal format, so I combined it along with the BeautifulSoup parser to scrape
 all the words from a webpage. The program then crosschecks all the words using a text file of the 10,000 most common words in English (credit to first20hours on GitHUb) in addition to a list of forbidden characters.
